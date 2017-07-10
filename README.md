@@ -5,7 +5,7 @@ Test-driven development in Minecraft with Magikcraft!
 ## Install
 
 ```
-yarn add --dev-only magikcraft-mock
+yarn add -D magikcraft-mock
 ```
 
 ## Write a test
