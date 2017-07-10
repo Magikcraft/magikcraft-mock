@@ -1,0 +1,24 @@
+{
+  "name": "magikcraft-mock",
+  "version": "1.0.0",
+  "description": "The mock interface for Magikcraft - for your test-driven development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magikcraft/magikcraft-mock.git"
+  },
+  "keywords": [
+    "javascript",
+    "minecraft",
+    "magikcraft"
+  ],
+  "author": "The Legendary Josh Wulf™ - As Seen on the Internet®",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magikcraft/magikcraft-mock/issues"
+  },
+  "homepage": "https://github.com/Magikcraft/magikcraft-mock#readme"
+}
